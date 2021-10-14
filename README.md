@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lindor-H
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning COMP2310
+- 💞️ I’m looking to collaborate on ANU IT Course if you have anything want to discuss with me
 - 📫 How to reach me YunHuang.Jeff@outlook.com
 
 <!---
